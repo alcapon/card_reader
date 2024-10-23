@@ -1,0 +1,3 @@
+- Create visual env : python3 -m venv venv
+- Activate visual env : venv\Scripts\activate
+- Install lib : pip install -r requirements.txt
